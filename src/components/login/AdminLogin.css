@@ -1,0 +1,40 @@
+.AdminLogin {
+ display: block;
+  width: 1677px;
+  height: 1120px;
+  background:linear-gradient(#000000,#666666);
+}
+
+.AdminLoginTitle{
+  /* Group 3769 */
+  position: absolute;
+  width: 316px;
+  height: 32px;
+  left: 681px;
+  top: 150px;
+}
+
+.AdminLoginLabel {
+  /* H2 - Alternative */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 32px;
+  /* identical to box height, or 114% */
+  color: #FFFFFF;
+
+}
+
+.LoginForm {
+  position: absolute;
+  width: 927px;
+  height: 647px;
+  left: 375px;
+  top: 231px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+  
+ 

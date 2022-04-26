@@ -1,0 +1,96 @@
+.LoginFormContainer {
+    /* Group 3767 */
+    width: 783.59px;
+    height: 496.24px;
+    top: 300px;
+    margin:0px auto;
+
+}
+
+.LoginFormTitle {
+    /* H2 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #666666;
+}
+
+
+.LoginFormInputLabel {
+    /* H2 - Alternative */
+    height: 31.24px;
+    left: 27.67%;
+    right: 64.62%;
+    display: block;
+    margin-bottom: 14px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+    color: #666666;
+}
+
+.LoginFormInput {
+        /* Rectangle 92 */
+    width: 750px;
+    box-sizing: border-box;
+    height: 50px;
+    margin-bottom: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px;
+
+    background: #F5F5F5;
+    border-radius: 5px;
+
+}
+
+.LoginFormButton {
+        /* Rectangle 93 */
+    width: 750px;
+    height: 50px;
+    left: 1214px;
+    top: 753.96px;
+    background: #000000;
+    border-radius: 10px;
+
+}
+
+.LoginFormButtonH4 {
+    /* H2 - Alternative */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0% auto;
+  
+    /* identical to box height, or 133% */
+    color: #FFFFFF;
+    
+
+}
+
+.LoginFormError {
+        width: 100%;
+        border: 1px solid #8692A6;
+        box-sizing: border-box;
+        border-radius: 6px;
+        height: 64px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        color: red;
+        padding: 10px;
+        margin-top: 20px;
+      }
+
